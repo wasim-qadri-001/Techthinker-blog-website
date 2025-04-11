@@ -1,0 +1,12 @@
+.navbar{
+    background-color: #655560;
+}
+
+.carousel-item{
+    height: 500px;
+    background-size: contain;
+}
+
+footer{
+    background-color: #a4969b;
+}
